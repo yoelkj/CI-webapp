@@ -1,0 +1,12 @@
+.fa-ul{margin:0;}
+.fa-ul li{text-align:center;}
+.fa-ul li a{color:black!important;font-size:1.5em;}            
+.fa-ul li .fa-stack{width:auto!important;color:black!important;}
+.bg-primary{background-color:#00a6ec!important;}
+
+@media (max-width: 425px) { 
+    .fa-ul li a{font-size:1.2em;}
+}
+@media (max-width: 375px) { 
+    .fa-ul li a{font-size:0.9em;}
+}    
